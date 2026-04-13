@@ -1,0 +1,8 @@
+{
+  "template": "java-maven",
+  "groupId": "com.opspilot",
+  "artifactId": "user-service",
+  "serverPort": 8080,
+  "includeDocker": true,
+  "generatedAt": "2026-04-13T15:19:59.463Z"
+}
